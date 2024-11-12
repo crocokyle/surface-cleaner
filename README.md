@@ -17,4 +17,4 @@ A highly effective surface cleaner made from common household ingredients. Usefu
 
 **Warning:**
 
-This solution is highly acidic. Do not allow the cleaner to sit for a prolonged period of time. For stubborn stains, try applying for 30 seconds and the scrub and wipe away the excess. Increase exposure time in 15 second intervals if necessary.
+This solution is highly acidic. Prolonged exposure may irritate sensitive skin. Wear gloves when using this cleaner, especially if you have sensitive skin or open cuts. Do not allow the cleaner to sit for a prolonged period of time. For stubborn stains, try applying for 30 seconds and the scrub and wipe away the excess. Increase exposure time in 15 second intervals if necessary.
