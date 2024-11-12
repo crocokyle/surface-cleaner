@@ -1,6 +1,13 @@
 # Homemade All-Purpose Surface Cleaner 
 A highly effective surface cleaner made from common household ingredients. Useful for hardwood and laminate floors, painted walls, countertops, etc. 
 
+## Surfaces to Avoid:
+- Natural Stone: Acidic cleaners can damage natural stone surfaces like marble, granite, and limestone.
+- Certain Metals: Acidic cleaners can corrode certain metals, such as aluminum and copper.
+- Waxed or Sealed Surfaces: Acid can strip the protective wax or sealant layer.
+- Painted Surfaces: While the solution can clean painted surfaces well, excessive use or prolonged contact can damage the paint finish.
+Always test the cleaner on a small, inconspicuous area before using it on a larger surface.
+
 ## Ingredients:
 
 * 4 parts distilled water
