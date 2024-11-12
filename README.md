@@ -15,6 +15,8 @@ A highly effective surface cleaner made from common household ingredients. Usefu
 
 1. **Combine Ingredients:** In a clean spray bottle, mix the distilled water, white vinegar, isopropyl alcohol, lemon juice, and dish soap. Ensure thorough mixing.
 
-**Warning:**
+**Warnings:**
 
-This solution is highly acidic. Prolonged exposure may irritate sensitive skin. Wear gloves when using this cleaner, especially if you have sensitive skin or open cuts. Do not allow the cleaner to sit for a prolonged period of time. For stubborn stains, try applying for 30 seconds and the scrub and wipe away the excess. Increase exposure time in 15 second intervals if necessary.
+- Prolonged exposure may irritate sensitive skin. Wear gloves when using this cleaner, especially if you have sensitive skin or open cuts.
+- Do not allow the cleaner to sit for a prolonged period of time. For stubborn stains, try applying for 30 seconds and the scrub and wipe away the excess. Increase exposure time in 15 second intervals if necessary.
+- This solution contains chemicals that can irritate the respiratory tract. Use in a well-ventilated area. Avoid inhaling fumes. If you experience any respiratory symptoms, such as coughing or difficulty breathing, discontinue use and seek fresh air immediately.
